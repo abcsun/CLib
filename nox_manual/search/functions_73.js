@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['send',['send',['../d9/d1a/classmessenger_1_1channel.html#ac86acf6b6327c594130ea4ce4d821b58',1,'messenger.channel.send'],['../d9/d1a/classmessenger_1_1channel.html#ac86acf6b6327c594130ea4ce4d821b58',1,'messenger.channel.send'],['../d9/d1a/classmessenger_1_1channel.html#ac86acf6b6327c594130ea4ce4d821b58',1,'messenger.channel.send'],['../dc/d68/classvigil_1_1Msg__stream.html#a13a4ac9b815885a6fd029d9cd0e49d55',1,'vigil::Msg_stream::send(boost::shared_array&lt; uint8_t &gt; &amp;msg, ssize_t size=0) const '],['../dc/d68/classvigil_1_1Msg__stream.html#a6a587fa1770af860e25531b89cce3e7a',1,'vigil::Msg_stream::send(const std::string &amp;str) const ']]],
+  ['send_5fecho',['send_echo',['../d7/d5d/classvigil_1_1jsonmessenger.html#a7b0e038976c14264123f2a9e1a19094e',1,'vigil::jsonmessenger::send_echo()'],['../d3/d0f/classvigil_1_1messenger.html#adf91d1e4ef7443fce3ee0819e76c1302',1,'vigil::messenger::send_echo()'],['../d2/d25/classvigil_1_1message__processor.html#ae0c6d55dc171f499dfe1c5103bfd3865',1,'vigil::message_processor::send_echo()']]],
+  ['send_5fnew_5fconnection_5fmsg',['send_new_connection_msg',['../d3/dd2/classvigil_1_1messenger__connection.html#a7becd6bbee8627786b9cd01f024fc9e0',1,'vigil::messenger_connection']]],
+  ['set',['set',['../d3/d41/structvigil_1_1network_1_1switch__port.html#a757e55b27f6ffb49daed13a5e2ceca71',1,'vigil::network::switch_port']]],
+  ['start_5fssl',['start_ssl',['../de/daa/classvigil_1_1messenger__core.html#a90fee32759ea8861a979541cd05cad62',1,'vigil::messenger_core']]],
+  ['start_5ftcp',['start_tcp',['../de/daa/classvigil_1_1messenger__core.html#ad1d8d35eca1c29b8b9abacfb9b8e81a0',1,'vigil::messenger_core']]],
+  ['static_5fget_5fname',['static_get_name',['../d5/dda/structvigil_1_1JSONMsg__event.html#a82cfaf8d2b7169ec85ddd87c052d6c56',1,'vigil::JSONMsg_event::static_get_name()'],['../d6/dd5/structvigil_1_1Msg__event.html#acd06df736ab38b5ae3557a94786a7a74',1,'vigil::Msg_event::static_get_name()']]],
+  ['switch_5fport',['switch_port',['../d3/d41/structvigil_1_1network_1_1switch__port.html#a572d435740610896b211140bc17b04d5',1,'vigil::network::switch_port::switch_port(datapathid dpid_, uint32_t port_)'],['../d3/d41/structvigil_1_1network_1_1switch__port.html#a415157c06929332916072a471ae69c2c',1,'vigil::network::switch_port::switch_port(const switch_port &amp;sp)']]]
+];

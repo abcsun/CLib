@@ -1,0 +1,27 @@
+var structvigil_1_1Config__bpdu =
+[
+    [ "get_br_id", "dc/d8e/structvigil_1_1Config__bpdu.html#ae0a03c4541f3fb65107208c546c0c805", null ],
+    [ "get_flags", "dc/d8e/structvigil_1_1Config__bpdu.html#ad51026279743228c50205a09a969fd4a", null ],
+    [ "get_fwd_delay", "dc/d8e/structvigil_1_1Config__bpdu.html#a7933c4f03ed09a0ee465a05aa36a8bd8", null ],
+    [ "get_hello_time", "dc/d8e/structvigil_1_1Config__bpdu.html#af7933449c4ab8f24e2e69bdde2838729", null ],
+    [ "get_max_age", "dc/d8e/structvigil_1_1Config__bpdu.html#a69616ab93c1777794a0f398f22bba51e", null ],
+    [ "get_msg_age", "dc/d8e/structvigil_1_1Config__bpdu.html#a2cc3d6ed93885e9157f3342a56835782", null ],
+    [ "get_port_id", "dc/d8e/structvigil_1_1Config__bpdu.html#ac56182a00293ba19754fe872cfef4078", null ],
+    [ "get_proto_id", "dc/d8e/structvigil_1_1Config__bpdu.html#a2f747e658214401f0662ae1df7a24402", null ],
+    [ "get_root_cost", "dc/d8e/structvigil_1_1Config__bpdu.html#afbe4dc61115959a35abefd52620adf73", null ],
+    [ "get_root_id", "dc/d8e/structvigil_1_1Config__bpdu.html#ac2b3016844dd8154bc7205d2a0e71877", null ],
+    [ "get_type", "dc/d8e/structvigil_1_1Config__bpdu.html#a546c382891e7408b9ba40c4fa075deeb", null ],
+    [ "get_version", "dc/d8e/structvigil_1_1Config__bpdu.html#aa819bb545d7c0df644ab7387ba0fea02", null ],
+    [ "br_id", "dc/d8e/structvigil_1_1Config__bpdu.html#aff3c10f6071df60459ab4e510be16181", null ],
+    [ "flags", "dc/d8e/structvigil_1_1Config__bpdu.html#a4d00f553dac46fc02204c723b224a8a2", null ],
+    [ "fwd_delay", "dc/d8e/structvigil_1_1Config__bpdu.html#a91bdd336fbc292b842b889a845b13f62", null ],
+    [ "hello_time", "dc/d8e/structvigil_1_1Config__bpdu.html#abf9efe50024475eb0c541fa3bc314cba", null ],
+    [ "max_age", "dc/d8e/structvigil_1_1Config__bpdu.html#a1ddd1f0ccd3bd7d20778b64f48be3198", null ],
+    [ "msg_age", "dc/d8e/structvigil_1_1Config__bpdu.html#a042e18470c6c8360a2181b587babf47e", null ],
+    [ "port_id", "dc/d8e/structvigil_1_1Config__bpdu.html#ad5a1e48dc82a49dcf83472697865df96", null ],
+    [ "proto_id", "dc/d8e/structvigil_1_1Config__bpdu.html#ab6f3a12070ea536feee7e36b81a2584f", null ],
+    [ "root_cost", "dc/d8e/structvigil_1_1Config__bpdu.html#a6b127e81eb698e75e343536a14a0d157", null ],
+    [ "root_id", "dc/d8e/structvigil_1_1Config__bpdu.html#a2c22574096ea4f327e14b12f7ece616f", null ],
+    [ "type", "dc/d8e/structvigil_1_1Config__bpdu.html#a69d0c76b4fa8c36626484aadfb843f9e", null ],
+    [ "version", "dc/d8e/structvigil_1_1Config__bpdu.html#abfb1aee645a76af0a8be58b6f4d0217c", null ]
+];

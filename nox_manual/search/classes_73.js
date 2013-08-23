@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['scoped_5fnative_5fmutex',['Scoped_native_mutex',['../d4/dfb/classvigil_1_1Scoped__native__mutex.html',1,'vigil']]],
+  ['scoped_5fnative_5frecursive_5fmutex',['Scoped_native_recursive_mutex',['../da/d61/classvigil_1_1Scoped__native__recursive__mutex.html',1,'vigil']]],
+  ['sctp_5fheader',['sctp_header',['../de/d04/structsctp__header.html',1,'']]],
+  ['sha1',['SHA1',['../d1/d13/classvigil_1_1SHA1.html',1,'vigil']]],
+  ['shutdown_5fevent',['Shutdown_event',['../d5/d1b/classvigil_1_1Shutdown__event.html',1,'vigil']]],
+  ['signal_5fgroup',['Signal_group',['../d0/d8b/classvigil_1_1Signal__group.html',1,'vigil']]],
+  ['signal_5fgroup_5fimpl',['Signal_group_impl',['../d9/d90/structvigil_1_1Signal__group__impl.html',1,'vigil']]],
+  ['signal_5fhandler',['Signal_handler',['../d9/d30/classvigil_1_1nox_1_1Signal__handler.html',1,'vigil::nox']]],
+  ['sigset',['Sigset',['../df/dda/classvigil_1_1Sigset.html',1,'vigil']]],
+  ['simple_5fcomponent_5ffactory',['Simple_component_factory',['../db/dbf/classvigil_1_1container_1_1Simple__component__factory.html',1,'vigil::container']]],
+  ['snap_5fheader',['snap_header',['../de/d8e/structsnap__header.html',1,'']]],
+  ['ssl_5fconfig',['Ssl_config',['../d5/d14/classvigil_1_1Ssl__config.html',1,'vigil']]],
+  ['ssl_5fopenflow_5fconnection_5ffactory',['Ssl_openflow_connection_factory',['../d7/d8b/classvigil_1_1Ssl__openflow__connection__factory.html',1,'vigil']]],
+  ['ssl_5fsession',['Ssl_session',['../df/de7/classvigil_1_1Ssl__session.html',1,'vigil']]],
+  ['ssl_5fsocket',['Ssl_socket',['../d2/d84/classvigil_1_1Ssl__socket.html',1,'vigil']]],
+  ['sslchannel',['sslChannel',['../d6/d3b/classmessenger_1_1sslChannel.html',1,'messenger']]],
+  ['stable_5flist',['Stable_list',['../db/d36/classvigil_1_1Stable__list.html',1,'vigil']]],
+  ['stable_5fmap',['Stable_map',['../dd/dfb/classvigil_1_1Stable__map.html',1,'vigil']]],
+  ['state_5fchange_5ferror',['state_change_error',['../d9/d6a/classvigil_1_1state__change__error.html',1,'vigil']]],
+  ['static_5fcomponent_5fcontext',['Static_component_context',['../d1/dd8/classvigil_1_1Static__component__context.html',1,'vigil']]],
+  ['switch_5fauth',['Switch_Auth',['../d5/d65/classvigil_1_1Switch__Auth.html',1,'vigil']]],
+  ['switch_5fport',['switch_port',['../d3/d41/structvigil_1_1network_1_1switch__port.html',1,'vigil::network']]]
+];
