@@ -1,0 +1,5 @@
+an useful module for logging
+
+using example
+	Vlog_module log("module name");
+	VLOG_EMER(log, string format);
