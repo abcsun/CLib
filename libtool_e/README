@@ -1,0 +1,29 @@
+using the libtool to compile this sample example
+
+1.to compilie the base file fun.c
+	libtool --mode=compile gcc -c fun.c
+
+	output: the .libs/fun.o is a shared object and the fun.o is a static object
+	libtool: compile:  gcc -c fun.c  -fPIC -DPIC -o .libs/fun.o
+	libtool: compile:  gcc -c fun.c -o fun.o >/dev/null 2>&1
+
+2.creating the libtool binary lib using the libtool object
+	libtool --mode=link gcc -o libfun.la fun.lo -rpath /usr/lib
+	
+	output: the .lo is the libtool object fileand .la is the libtool binary file
+	libtool: link: rm -fr  .libs/libfun.a .libs/libfun.la .libs/libfun.lai .libs/libfun.so .libs/libfun.so.0 .libs/libfun.so.0.0.0
+	libtool: link: gcc -shared  -fPIC -DPIC  .libs/fun.o      -Wl,-soname -Wl,libfun.so.0 -o .libs/libfun.so.0.0.0
+	libtool: link: (cd ".libs" && rm -f "libfun.so.0" && ln -s "libfun.so.0.0.0" "libfun.so.0")
+	libtool: link: (cd ".libs" && rm -f "libfun.so" && ln -s "libfun.so.0.0.0" "libfun.so")
+	libtool: link: ar cru .libs/libfun.a  fun.o
+	libtool: link: ranlib .libs/libfun.a
+	libtool: link: ( cd ".libs" && rm -f "libfun.la" && ln -s "../libfun.la" "libfun.la" )
+
+3.installing the lib to the given dir
+	sudo libtool --mode=install install -c libfun.la /usr/lib/ 
+
+4.compiling the fun_test.c
+	libtool --mode=compile gcc -c fun_test.c
+
+5.linking the fun_test using the fun_test.lo and the dependent libfun 
+	libtool --mode=link gcc -o fun_test fun_test.lo libfun.la
