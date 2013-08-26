@@ -14,10 +14,11 @@
 ****************************************************************************************/
 
 
-#include "socket.h"
-#include "sock_ev.h"
-#include "socket_addr.h"
-#include "socket_base.h"
+#include "include/socket.h"
+#include "include/sock_ev.h"
+#include "include/socket_addr.h"
+#include "include/socket_base.h"
+#include "include/log_trace.h"
 
 using namespace std;
 

@@ -32,7 +32,7 @@ void log_printf(int line,
 {
 	char *tmpStr;
 	int rc;
-	
+
 	struct timeval tv ;
 	
 	va_list ap;

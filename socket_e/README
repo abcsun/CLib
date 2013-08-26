@@ -1,5 +1,9 @@
-this socket project is written according the _飞翔的企鹅_'s
- blog from http://blog.csdn.net/gdutliuyun827/article/category/1296199
+1. this socket project is written according to the _飞翔的企鹅_'s
+ blog from http://blog.csdn.net/gdutliuyun827/article/category/1296199  thanks:)
 
-but the sock_ev.h is not shared by the author until now. 
+2. but the sock_ev.h is not shared by the author until now. 
 i will try to rewrite the sock_en latter
+
+3. the sock_ev.h has been filled according to other source codes
+
+4. using "make all" to compile all the libs, and using "make test" to compile the test file

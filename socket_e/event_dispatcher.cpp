@@ -1,6 +1,8 @@
-#include "socket.h"
-#include "event_dispatcher.h"
-#include "sock_ev.h"
+#include "include/socket.h"
+#include "include/event_dispatcher.h"
+#include "include/sock_ev.h"
+#include "include/log_trace.h"
+
 #include <errno.h>
 
 EventDispatcher::EventDispatcher()
@@ -224,7 +226,7 @@ int PollDispatcher::listen(SockMapT &sockMap_,
   int num = poll(&pollFds[0], pollFds.size(), timeout);
   if(num <= 0)
   {
-    logTrace("num=%d;size:%d;%m", num, sockMap_.size());
+    //logTrace("num=%d;size:%d;%m", num, sockMap_.size());
     return num;
   }
 
