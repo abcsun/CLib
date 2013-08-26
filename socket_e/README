@@ -1,0 +1,5 @@
+this socket project is written according the _飞翔的企鹅_'s
+ blog from http://blog.csdn.net/gdutliuyun827/article/category/1296199
+
+but the sock_ev.h is not shared by the author until now. 
+i will try to rewrite the sock_en latter
